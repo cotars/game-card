@@ -1,0 +1,13 @@
+{
+    "name": "cotars/game-card",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "cotars/game-proto-card": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Cotars\\Game\\Card\\": "src"
+        }
+    }
+}
