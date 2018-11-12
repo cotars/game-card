@@ -3,7 +3,7 @@
     "type": "library",
     "license": "MIT",
     "require": {
-        "cotars/game-proto-card": "^1.0"
+        "cotars/game-proto-card": "dev-master"
     },
     "autoload": {
         "psr-4": {
